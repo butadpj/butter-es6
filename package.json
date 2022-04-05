@@ -1,0 +1,22 @@
+{
+  "name": "@butadpj/butter-es6",
+  "version": "1.0.0",
+  "description": "ES6 version butter.js by BCJdevelopment",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butadpj/butter-es6.git"
+  },
+  "keywords": [
+    "momentum-scrolling"
+  ],
+  "author": "butadpj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butadpj/butter-es6/issues"
+  },
+  "homepage": "https://github.com/butadpj/butter-es6#readme"
+}
