@@ -17,7 +17,7 @@ https://bcjdevelopment.github.io/butter.js/
 - #### Install the package
 
   ```
-  npm i @butadpj/butter-es6
+  npm install butter-es6
   ```
 
 - #### Create a content wrapper with an id of "butter" (keep fixed html elements outside of content wrapper):
