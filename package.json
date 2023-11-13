@@ -1,6 +1,7 @@
 {
   "name": "butter-es6",
   "version": "1.0.1",
+  "type": "module",
   "description": "ES6 version butter.js by BCJdevelopment",
   "main": "index",
   "scripts": {
